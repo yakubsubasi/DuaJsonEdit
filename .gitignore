@@ -28,6 +28,9 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+<<<<<<< HEAD
 
 # Local Netlify folder
 .netlify
+=======
+>>>>>>> 28bbdb4 (init)
